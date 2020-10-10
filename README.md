@@ -13,6 +13,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+![Swagger view](/documentation/images/swagger_screenshot.png)
 I always start every django project by configuring some swagger documentation and adding a user view and serializer. This repository serves as a base project that can be cloned and installed with all of these things already set up.
 
 ### Built With
@@ -78,5 +79,3 @@ Contributions are what make the open source community such an amazing place to b
 <!-- LICENSE -->
 ## License
 Distributed under the MIT License.
-
-n
